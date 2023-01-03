@@ -1,0 +1,11 @@
+.type-container {
+    display: flex;
+}
+
+.type-container p {
+    margin-right: 10px;
+    color: white;
+    padding: .7em;
+    border-radius: 1.2em;
+
+}

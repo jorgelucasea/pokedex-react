@@ -1,0 +1,21 @@
+.pokemons {
+    margin: 10px;
+    border-style: solid;
+    border-radius: .7em;
+}
+
+.item-top p {
+    text-align: right;
+    margin-right: 12px;
+    margin-top: 8px;
+    font-size: 1.2em;
+    font-weight: 400;
+}
+
+.item-bottom {
+    color: #fff;
+    text-align: center;
+    border-bottom-left-radius: .5em;
+    border-bottom-right-radius: .5em;
+    padding: 5px;
+}
